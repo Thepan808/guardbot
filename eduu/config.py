@@ -3,13 +3,13 @@ import os.path
 from typing import List, Optional
 
 
-API_ID: int = 3487995
-API_HASH: str = "7b9f1868c1e90b7408d48445f1e89603"
-TOKEN: str = "5200427414:AAHT02y59QBp0X2qUcEGDcU0f4JK_iQoqzA"
+API_ID: int = 4954361
+API_HASH: str = "43a786a8548a30f9d6887e36d53c0e64"
+TOKEN: str = "5817665802:AAFilzok4BddygT4u3Uynr-ohzCtGYtOcW0"
 
-log_chat: int = -1001306851903
-sudoers: List[int] = [1757169682, 859229457]
-super_sudoers: List[int] = [1757169682, 859229457]
+log_chat: int = -1001532430686
+sudoers: List[int] = [737737727]
+super_sudoers: List[int] = [737737727]
 
 prefix: List[str] = ["/", "!", ".", "$", "-"]
 
